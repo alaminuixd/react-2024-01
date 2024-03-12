@@ -6,7 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.randomeName{
+  font-size: 20px;
+  font-weight: bold;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
